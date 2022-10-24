@@ -1,0 +1,99 @@
+ #leftContent{
+	         	width: 175px;
+	         	
+	         	float: left;
+	         }
+			 #upper_leftContrent{
+				 background-color: #ffffff;
+	         	border-radius: 10px; 
+	         	box-shadow: rgba(5, 10, 80, 1) 5px 5px 8px;
+				 width: 175px;
+	             
+			    border: solid 1px #000000;
+			   margin-bottom: 27px;
+			 }
+			 
+			 #prodivision{
+	         	width: 150px;
+	         	height: 150px;
+	         	 }
+				#secondaryprofile{
+	             height: 150px;
+	             width: 150px;	            		
+				
+				border-radius: 125px;
+				border: solid 2px #000000;
+				}
+				#secondaryprofile:hover,#secondaryprofile:focus{
+	           
+				border: solid 1px #000cff;
+				}
+				#textsecond{
+				font-family: "Gill Sans", Comic sans ms;
+				font-size: 20px;
+				color: #0c1af1;
+				text-shadow: 3px 3px 3px #484b82;
+				font-weight: 1000;
+				font-style: italic;
+			    }
+				#textsecond:hover, #textsecond:focus{
+					color: #000000;
+					text-shadow: 3px 3px 3px #000000;
+				}
+				#leftNav{
+					background-color: #de8a0b; 
+					height: 285px;
+					width: 170px;
+					margin-top: 20px;
+					margin-left: auto;
+					margin-right: auto;
+				  border: solid 1px #000000;
+				border-radius: 10px;
+				}
+				
+				
+				 #linkk {
+				color: #c5e60c;
+				font-family: "Gill Sans";
+				font-size: 18px;
+				text-shadow: 3px 3px 3px #000000;
+				font-weight: 1000;
+				font-style: bold;
+				}
+			    #linkk:hover,  #current:hover{
+				color: #000000;
+				}
+				#extra{
+				text-decoration: underline;
+				color: #3000ef;
+				font-family: "Gill Sans";
+				font-size: 20px;				
+				font-weight: 1000;
+				font-style: bold;
+				}
+				#extrastuff{
+				color: #000000;
+				font-family: "Gill Sans";
+				font-size: 15px;	
+				font-weight: 500;
+				font-style: bold;
+				}
+				#logout{
+				
+					width: 78px;
+					height: 60px;
+				  border: solid 1px #ffffff;
+				  border-radius: 5px;
+				  line-height: 20px;
+				  text-align: center;
+				  background-color: #4d4d38;
+				  color: #ffffff;
+				  font-size: 12px;
+				  font-family: Yu Gothic UI Semibold;
+				
+				}
+				#logout:hover, #logout:focus{
+					 border: solid 1px #000000;
+				background-color: #2735d1;
+				color: #000000;
+				}

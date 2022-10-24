@@ -1,0 +1,115 @@
+body {
+	color: #666666;
+	background-color: #f9f8f6;
+	font-family: Yu Gothic UI Semibold;
+	margin: 0px;
+}
+#wrapper{
+   	width: 1355px;
+	height: 670px;
+	margin-left: 5px;
+	background-color: #ffffff;
+}
+#header{
+	height: 100px;
+	background-color: #999999;
+	border: 1px solid #000000;
+}
+#content{
+	height: 480px;
+	border-left: solid 1px #000000;
+	border-right: solid 1px #000000;
+	background-image: url('../Graphics/backgrnd.jpg');
+	
+}
+#left{
+	float: left;
+	height: 100px;
+	line-height: 100px;
+}
+#log{
+	margin-top: 15px;
+	margin-left: 50px;
+}
+#log:hover, #log:focus{
+    background-color: #bfa1a1;
+	border-radius: 15px;
+	border: solid 1px #000000;
+}
+#profile_picture{
+	height: 100px;
+	width: 100px;
+	border: solid 1px #000000;
+	border-radius: 125px;
+	margin-left: 20px;
+
+}
+#right{
+	width: 800px;
+	float : right;
+	line-height: 100px;
+	height: 100px;
+	margin-right: 10px;
+}
+#p{
+	color: black;
+	font-size: 40px;
+}
+#pp{
+	color: #ffffff;
+   font-size: 50px;
+}
+#tab{
+	border: solid 1px #000000;
+	height: 100%;
+	padding-left: 195px;
+	padding-right: 195px;
+	
+}
+#con{
+	border: solid 3px #000000;
+	border-radius: 10px;
+	box-shadow: rgb(8, 99, 2) 0px 0px 8px;
+	text-align: center;
+	height: 150px;
+	width: 250px;
+	line-height: 150px;
+	margin-right: 60px;
+	background-color: #c2c2c2;
+	color: #000000;
+	font-size: 20px;
+}
+#con:hover, #con:focus{
+	border: solid 1px #ffffff;
+	box-shadow: rgb(255, 0, 0) 0px 0px 8px;
+	background-color: #e462cb;
+	color: #ffffff;
+	font-size: 25px;
+}
+#lgut{
+	width: 100px;
+	height: 50px;
+	border: solid 3px #000000;
+	border-radius: 10px;
+	font-family: Yu Gothic UI Semibold; 	
+	background-color: #ff00ce;
+	color: #000000;
+	font-size: 15px;
+	box-shadow: rgb(8, 99, 2) 0px 0px 8px;
+}
+#lgut:hover, #lgut:focus{
+	border: solid 1px #ffffff;
+	background-color: #e95ece;
+	color: #ffffff;
+	font-size: 20px;
+	box-shadow: rgb(8, 99, 2) 0px 0px 8px;
+	box-shadow: rgb(255, 0, 0) 0px 0px 8px;
+}
+
+ 	
+#footer{
+	height: 100px;
+	background-color: #999999;
+	border: 1px solid #000000;
+	line-height: 100px;
+}

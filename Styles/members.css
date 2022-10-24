@@ -1,0 +1,132 @@
+#bod
+{
+margin: 10px auto;
+height: 100%;
+width: 100%;
+border: solid 2px #000000;
+background-color: #ffffff;
+border-radius: 10px; 
+box-shadow: rgba(5, 10, 80, 1) 5px 5px 8px;
+}
+#card
+{
+line-height: 60px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 30px;
+margin-bottom: 30px;
+height:10%;
+border: solid 2px #000000;
+background-color: #ffffff;
+border-radius: 20px; 
+box-shadow: rgb(30, 38, 158) 5px 5px 8px;
+background-color: #a5c3b9;
+}
+#secondaryprofile{
+float: left;
+margin-left: 10px;
+height: 57px;
+width: 57px;	            		
+border-radius: 125px;
+border: solid 2px #000000;
+}
+#secondaryprofile:hover,#secondaryprofile:focus{
+border: solid 1px #000cff;
+}
+#textsecond{
+font-family: Yu Gothic UI Semibold;
+font-size: 20px;
+color: #ffffff;
+text-shadow: 3px 3px 3px #000dff;
+font-weight: 1000;
+
+}
+#textsecond:hover, #textsecond:focus{
+color: #c5b0b00;
+text-shadow: 3px 3px 3px #c5b0b0;
+}
+#txt{
+font-family: Yu Gothic UI Semibold;
+font-size: 13px;
+color: #000000;
+font-weight: 10;
+}
+#pagination{
+	border: solid 3px #000000;
+	height: 50px;
+	margin: 20px;
+	line-height: 50px;
+	border-radius: 12px;
+	background-color: #8f5690;
+}
+#page{
+	border: solid 3px #000000;
+	height: 30px;
+	margin: 10px;
+	padding: 10px;
+	line-height: 30px;
+	border-radius: 5px;
+	color: #ffffff;
+	background-color: #f906ff;
+}
+#page:hover,#page:focus{
+	color: #000000;
+	background-color: #8f5690;
+	border: solid 1px #ffffff;
+}
+#pagecurrent
+{
+    border: solid 3px #000000;
+	height: 30px;
+		margin: 10px;
+		padding: 10px;
+	color: #000000;
+	border-radius: 5px;
+	background-color: #dad7da;
+}
+#pagecurrent:hover,#pagecurrent:focus{
+	color: #000000;
+	background-color: #40dab9;
+	border: solid 1px #ffffff;
+}
+#he{
+font-family: Yu Gothic UI Semibold;
+font-size: 30px;
+color: #000000;
+font-weight: 1000;
+}
+
+#log:hover, #log:focus{
+    background-color: #bfa1a1;
+	border-radius: 15px;
+	border: solid 1px #000000;
+}
+	#inp{
+	margin-top: 10px;
+	margin-left: 10px;
+	height: 40px;
+	width: 350px;
+	padding-left: 10px;
+	color: #000000;
+	font-size: 13px;
+	font-family: Yu Gothic UI Semibold;
+	background-color: #f2f2f2;
+	border: solid 2px #0d1787;
+	border-radius: 50px;
+				}
+	#inp:hover, #inp:focus,#inpsub:hover,#inpsub:focus{
+	background-color: #ffffff;
+	border: solid 10px #c6760f;
+	height: 50px;
+}
+#inpsub{
+	margin-top: 10px;
+	height: 40px;
+    color: #000000;
+	font-size: 13px;
+	font-family: Yu Gothic UI Semibold;
+	background-color: #f2f2f2;
+	border: solid 2px #0d1787;
+	border-radius: 30px;
+}
+

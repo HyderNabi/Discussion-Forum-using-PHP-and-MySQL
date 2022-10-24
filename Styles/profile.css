@@ -1,0 +1,149 @@
+ #leftContent{
+	         	
+				 }
+			 #upper_leftContrent{
+				 margin-left: 50px;
+				 margin-bottom: 50px;
+				 margin-right: 50px;
+				 height: 400px;
+				 background-color: #ffffff;
+	         	border-radius: 10px; 
+	         	box-shadow: rgba(5, 10, 80, 1) 5px 5px 8px;             
+			    border: solid 1px #000000;
+			   margin-bottom: 27px;
+			 }
+			 #backgound{
+				 border: solid 1px #000000;
+				 height: 350px;
+				 width: 700px;
+				 }
+				  #backgound:hover,#backgound:focus{
+				 border: solid 2px #000000;
+				  }
+			 
+			  #prodivision{
+				
+				width: 160px;
+				margin-top: -90px;
+	         	 }
+				#secondaryprofile{
+	             height: 150px;
+	             width: 150px;	    
+				border-radius: 125px;
+				border: solid 3px #f32e0e;
+				}
+				#secondaryprofile:hover,#secondaryprofile:focus{
+	           
+				border: solid 1px #000cff;
+				}
+				#textsecond{
+				font-family: "Gill Sans", Comic sans ms;
+				font-size: 20px;
+				color: #0c1af1;
+				text-shadow: 3px 3px 3px #484b82;
+				font-weight: 1000;
+				font-style: italic;
+			    }
+				#textsecond:hover, #textsecond:focus{
+					color: #000000;
+					text-shadow: 3px 3px 3px #000000;
+				}
+				#leftNav{
+					background-color: #b4b4b4; 
+					height: 500px;
+					margin: 50px;
+					border: solid 1px #000000;
+				     border-radius: 10px;
+				}
+				#left{
+				padding-left: 20px;
+				width: 450px;
+				margin: 10px;
+				float: left;
+				border-left: solid 5px #fb0303;
+				border-right: solid 5px #060aff;
+				height: 480px;
+				border-radius: 20px;
+				}
+				#right{
+					padding-left: 20px;
+					width: 450px;
+				margin: 10px;
+				float: right;
+				border-right: solid 5px #fb0303;
+				border-left: solid 5px #060aff;
+				height: 480px;
+				border-radius: 20px;
+				}
+				
+				
+				 #linkk {
+				
+				color: #c5e60c;
+				font-family: "Yu Gothic UI Semibold";
+				font-size: 18px;
+				text-shadow: 3px 3px 3px #000000;
+				font-weight: 1000;
+				font-style: bold;
+				}
+			    #linkk:hover,  #current:hover{
+				color: #000000;
+				}
+				#extra{
+				
+				color: #3000ef;
+				font-family: "Yu Gothic UI Semibold";
+				font-size: 30px;				
+				font-weight: 1000;
+				font-style: bold;
+				}
+				#extrastuff{					
+				color: #000000;
+				font-family: "Yu Gothic UI Semibold";
+				font-size: 19px;	
+				font-weight: 500;
+				font-style: bold;
+				margin-left: 15px;
+				text-decoration: underline;
+				}
+	#signup
+	{
+		background-color: #c2c2c3;
+		border-radius: 10px;
+		margin-left: 40px;
+		padding: 20px;
+		border: solid 2px #000000;
+		margin-top: 20px;
+		float: left;
+		
+	}
+	#signupp
+	{
+				background-color: #c2c2c3;
+
+		border-radius: 10px;
+		margin-right: 40px;
+		padding: 20px;
+		border: solid 2px #000000;
+		margin-top: 20px;
+		float: right;
+		
+	}
+			
+				
+	#post_input{
+	height: 40px;
+	width: 350px;
+	padding-left: 10px;
+	color: #000000;
+	font-size: 13px;
+	font-family: Yu Gothic UI Semibold;
+	background-color: #f2f2f2;
+	border: solid 2px #0d1787;
+	border-radius: 50px;
+}
+#post_input:hover,#post_input:focus{
+	background-color: #ffffff;
+	border: solid 1px #c6760f;
+}
+

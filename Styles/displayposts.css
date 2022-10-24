@@ -1,0 +1,185 @@
+#postContainer{
+			   border: solid 3px #000000;	   
+		     margin: 20px;
+			 height: 125%;
+			 border-radius: 10px; 
+			 background-color: #9291ff;
+			 overflow: auto;
+			 }
+			 #post_display{
+				 border: solid 4px #000000;
+                 border-radius: 10px;
+			  background-color: #999999;
+			  margin: 10px;
+			 }
+			 #post_display:hover, #post_display:focus{
+			   border: solid 2px #ffffff;
+			   border-radius: 15px;
+			 }
+			  #post_heading_container{
+				  background-color: #c5c5c5;
+             border: solid 1px #000000;
+             padding-left: 10px;			 
+				  height: 35px;
+				  line-height: 35px;
+				  border-radius: 125px;
+			  }
+			  #post_footer{
+				  background-color: #c5c5c5;
+				 border: solid 1px #000000;				  
+				  height: 35px;
+				  line-height: 35px;
+				  border-radius: 125px;
+				  }
+           #post_profile{
+			   height: 35px;
+			   width: 35px;
+			   border-radius: 125px;
+				border: solid 1px #000000;
+				float: left;			   
+		   }
+		   #post_text{
+				font-family: Lucida Console;
+				font-size: 15px;
+				color: #00ffe9;
+				text-shadow: 3px 3px 3px #000000;
+				font-weight: 1000;
+				font-style: bold ;
+			    }
+				#post_text:hover, #post_text:focus{
+					color: #000000;
+					text-shadow: 3px 3px 3px #ff0909;
+				}				
+				#date_and_time{
+					float: right;
+					height: 35px;
+					line-height: 35px;
+					padding-right: 10px;
+				}
+				#__date_style{
+				color: blue;
+				
+				font-style: bold;
+				font-size: 18px;
+				}
+				#__time_style{
+				font-family: Lucida Console;
+				color: #000000;
+           font-style: bold;
+				}
+				#content_of_posts{
+					background-color: #ffffff;
+				border: solid 1px #000000;	
+					
+				}
+				#post_display_title{
+					line-height: 40px;
+					padding: 10px;
+					font-size: 20px;
+					font-family: Eras Bold ITC;
+					color: red;
+					word-wrap: break-word;
+					word-spacing: 20px;
+					
+				}
+				#sseperator{
+			  height: 3px;
+			  margin-left: 10px;
+			  margin-right: 10px;
+			  background-color: #999999;
+			  border: solid 1px #000000;
+			  border-radius: 12px;
+			 } 
+				#post_display_content{
+					padding: 10px;
+					font-size: 15px; 
+					word-wrap: break-word;
+					word-spacing: 20px;
+					line-height: 40px;
+					color: #000000;
+					border: solid 1px #000000;
+				}
+				#comment{
+					margin-left: 10px;
+					height: 25px;
+					border: solid 2px #ffffff;
+					border-radius: 125px;
+					padding-left: 10px;
+					width: 400px;
+					color: #ffffff;
+              background-color: #000000; 					
+				}
+				#comment:hover, #comment:focus{
+					border: solid 2px #000000;
+					color: #000000;
+              background-color: #ffffff; 
+				}
+				#comment_submit{
+					height: 25px;
+					border: solid 2px #ffffff;
+					border-radius: 125px;
+					background-color :#000000;
+					color: #ffffff;
+				}
+				#comment_submit:hover , #comment_submit:focus{
+				  border: solid 2px #000000;
+					border-radius: 125px;
+					background-color :#ffffff;
+					color: #000000;
+				}
+			
+				#replies_button{	
+               float: right;				
+					border: solid 2px #ffffff;
+					background-color: #000000;
+					color: #ffffff;
+					height: 25px;
+					margin: 5px;
+               text-align: center;					
+					border-radius: 125px;
+				}
+				#replies_button:hover,#replies_button:focus{
+					border: solid 2px #000000;
+					background-color: #ffffff;
+					color: #000000;
+				}
+	#inp{
+	margin-top: 10px;
+	margin-left: 10px;
+	height: 40px;
+	width: 350px;
+	padding-left: 10px;
+	color: #000000;
+	font-size: 13px;
+	font-family: Yu Gothic UI Semibold;
+	background-color: #f2f2f2;
+	border: solid 2px #0d1787;
+	border-radius: 50px;
+				}
+	#inp:hover, #inp:focus,#inpsub:hover,#inpsub:focus{
+	background-color: #ffffff;
+	border: solid 10px #c6760f;
+	height: 50px;
+}
+#inpsub{
+	margin-top: 10px;
+	height: 40px;
+    color: #000000;	margin-left: 40px;
+	font-size: 13px;
+	font-family: Yu Gothic UI Semibold;
+	background-color: #f2f2f2;
+	border: solid 2px #0d1787;
+	border-radius: 30px;
+}
+#upndownvote{
+     margin-left: 10px;	
+}
+#vote{
+	margin-left: 20px;
+	float: left;
+	color: black;
+}
+#im:hover,im:focus{
+height: 32px;
+width: 32px;
+}

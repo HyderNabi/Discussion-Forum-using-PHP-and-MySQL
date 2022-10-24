@@ -1,0 +1,139 @@
+
+#wrapper{
+   	width: 1350px;
+	height: 670px;
+	margin-right: 20px;
+	background-color: #ffffff;
+}
+#header{
+	height: 100px;
+	background-color: #999999;
+	border: 1px solid #000000;
+	
+}
+#logo{
+	float: left;
+	margin-left: 100px;
+	margin-top: 18px;
+}
+#logo:hover, #logo:focus{
+    background-color: #bfa1a1;
+	border-radius: 15px;
+    border: solid 1px #000000;
+}
+#label{
+font-family: Yu Gothic UI Semibold;
+}
+
+#LogIn{
+    float: right;
+	height: 90px;
+    padding-top: 10px;
+	margin-right: 0px;
+
+	
+}
+#login_input{
+	height: 40px;
+	width: 200px;
+	margin: 10px;
+	padding-left: 10px;
+	color: #000000;
+	font-size: 13px;
+	font-family: Yu Gothic UI Semibold;
+	background-color: #f2f2f2;
+	border: solid 2px #c6760f;
+	border-radius: 50px;
+}
+#login_input:hover,#login_input:focus, #login_submit:hover,#login_submit:focus, #input_feilds:hover,#input_feilds:focus,#fname:hover,  #fname:focus, #fsubmit:hover, #fsubmit:focus{
+	background-color: #ffffff;
+	border: solid 1px #c6760f;
+	
+}
+#login_submit{
+	height: 30px;
+    margin: 10px;
+	color: #000000;
+	font-size: 13px;
+	font-family: Yu Gothic UI Semibold;
+	background-color: #f2f2f2;
+	border: solid 2px #c6760f;
+	border-radius: 5px;
+}
+
+#content{
+    height: 580px;
+    width: 100%;
+
+}
+#left{
+	float: left;
+	width: 795px;
+	height: 570px;
+    border: solid 1px #000000;
+}
+#right{
+	float: right;
+	width: 550px;
+	height: 570px;
+	background-color: #ffffff;
+    border: solid 1px #000000;
+}
+#back{
+	width: 795px;
+	height: 570px;
+	
+}
+#signup{
+	padding-top: 10px;
+    padding-left: 70px;
+}
+#fname{
+	margin-right: 30px;
+	margin-bottom: 25px;
+	width: 150px;
+	height: 40px;
+	border: solid 3px #c6760f;
+	padding-left: 10px;
+	border-radius: 25px;
+	background-color: #cfcfcf;
+	color: #000000;
+	font-size: 13px;
+	font-family: Yu Gothic UI Semibold;
+}
+#fsubmit{
+	margin-left: 100px;
+	margin-bottom: 25px;
+	width: 150px;
+	height: 40px;
+	border: solid 3px #c6760f;
+	padding-left: 10px;
+	border-radius: 8px;
+	background-color: #cfcfcf;
+	color: #000000;
+	font-size: 13px;
+	font-family: Yu Gothic UI Semibold;
+}
+#input_feilds{
+	margin-right: 30px;
+	margin-bottom: 25px;
+	width: 370px;
+	height: 40px;
+	border: solid 3px #c6760f;
+	padding-left: 10px;
+	border-radius: 25px;
+	background-color: #cfcfcf;
+	color: #000000;
+	font-size: 13px;
+	font-family: Yu Gothic UI Semibold;
+}
+#req{
+	font-size: 25px;
+	color: red;
+}
+#haid{
+	
+  margin-left: 20px;
+  color: red;
+
+}
